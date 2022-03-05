@@ -1,4 +1,6 @@
 # This is a tool to generate visual memory map layouts for the IBM 5150 and compatibles.
+This can be used for other purposes, but the memory segmentation features are intended to assist in IBM PC (8086) development.
+
 Requirements
 * [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/)
 * [Pillow](https://pillow.readthedocs.io/en/stable/)
