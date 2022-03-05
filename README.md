@@ -1,7 +1,7 @@
 # This is a tool to generate visual memory map layouts for the IBM 5150 and compatibles.
 Requirements
-* PySimpleGUI
-* Pillow
+* [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/)
+* [Pillow](https://pillow.readthedocs.io/en/stable/)
 * Python 3+
 
 Example output
